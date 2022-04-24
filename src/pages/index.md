@@ -25,11 +25,11 @@ projects:
       fanqiang: true
     - name: 'YY影院'
       link: 'https://www.yyzone.net'
-      desc: '速度一般，画质一般，医院多，没有广告，资源多，更新快'
+      desc: '速度一般，画质一般，没有广告，资源多，更新快'
       icon: 'https://www.yyzone.net/template/pc/statics/img/favicon-yyzone.ico'
     - name: '云播TV'
       link: 'https://www.yunbtv.net/'
-      desc: '速度一般，画质一般，医院多，没有广告，资源多，更新快'
+      desc: '速度一般，画质一般，没有广告，资源多，更新快'
       icon: 'https://www.yunbtv.net//template/yunbtv_ui/images/favicon.ico'
   漫画:
     - name: '拷貝漫畫'
