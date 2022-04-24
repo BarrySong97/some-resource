@@ -17,7 +17,7 @@ defineProps<{ projects: Record<string, any[]> }>()
         :class="!item.link ? 'opacity-0 pointer-events-none h-0 -mt-8 -mb-4' : ''"
       >
         <div pt-2 pr-5>
-          <img :src="item.icon" alt="">
+          <img style="height:21.672px;width:21.672px;" :src="item.icon" alt="">
         </div>
         <div class="flex-auto">
           <div cla ss="text-normal">{{ item.name }}</div>
