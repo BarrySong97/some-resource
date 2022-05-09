@@ -23,6 +23,11 @@ projects:
       desc: '速度快，画质不错，广告少，但是资源少，但是热门都有'
       icon: 'https://www.duboku.tv/template/mytheme/statics/image/20200420/92ef7bc2b.ico'
       fanqiang: true
+    - name: '厂长资源'
+      link: 'https://qianoo.cn/movie_bt/movie_bt_series/dyy'
+      desc: '速度快，画质不错, 资源多，无广告'
+      icon: 'https://www.duboku.tv/template/mytheme/statics/image/20200420/92ef7bc2b.ico'
+      fanqiang: true
     - name: 'YY影院'
       link: 'https://www.yyzone.net'
       desc: '速度一般，画质一般，没有广告，资源多，更新快'
